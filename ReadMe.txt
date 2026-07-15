@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🖥️ PC Maker
 
 **Build your dream PC with ease**
