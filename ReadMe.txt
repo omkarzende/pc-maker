@@ -138,7 +138,7 @@ Select the cloned project
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/f905488a-6b5e-4991-a76c-02794687dae4" width="220">
+<img src="https://github.com/omkarzende/pc-maker/blob/main/1%20Interface.png" width="220">
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/87d82e84-aa28-4c13-a09f-76a7ef6121ba" width="220">
