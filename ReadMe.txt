@@ -135,6 +135,51 @@ Select the cloned project
 
 ---
 
+## 📱 Screenshots
+ 
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/f905488a-6b5e-4991-a76c-02794687dae4" width="220">
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/87d82e84-aa28-4c13-a09f-76a7ef6121ba" width="220">
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/a100fd12-28c6-4e15-b1b2-c253a36a457b" width="220">
+</td>
+</tr>
+</table>
+ 
+<p align="center">
+<b>Interface</b>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<b>Use Case</b>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<b>Error</b>
+</p>
+ 
+<br>
+ 
+<table align="center">
+<tr>
+<td align="center">
+<img src="IMAGE_4_URL" width="220">
+</td>
+<td align="center">
+<img src="IMAGE_5_URL" width="220">
+</td>
+</tr>
+</table>
+ 
+<p align="center">
+<b>Warning</b>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<b>Saved</b>
+</p>
+
+
+
 # 🎯 Learning Outcomes
 
 This project demonstrates practical knowledge of
