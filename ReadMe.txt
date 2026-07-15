@@ -141,7 +141,7 @@ Select the cloned project
 <img src="https://github.com/omkarzende/pc-maker/blob/main/1%20Interface.png" width="220">
 </td>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/87d82e84-aa28-4c13-a09f-76a7ef6121ba" width="220">
+<img src="https://github.com/omkarzende/pc-maker/blob/main/2%20Use%20Case.png" width="220">
 </td>
 <td align="center">
 <img src="https://github.com/user-attachments/assets/a100fd12-28c6-4e15-b1b2-c253a36a457b" width="220">
